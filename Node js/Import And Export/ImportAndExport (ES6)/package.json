@@ -1,0 +1,12 @@
+{
+  "name": "import123",
+  "version": "1.0.0",
+  "description": "prectice only ",
+  "main": "Export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Preetam singh",
+  "license": "ISC",
+  "type":"module"
+}

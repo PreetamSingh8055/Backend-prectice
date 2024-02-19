@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "pathparameters",
+  "version": "1.0.0",
+  "description": "how to set the changing path parameter in url",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Preetam Singh",
+  "license": "ISC"
+}
