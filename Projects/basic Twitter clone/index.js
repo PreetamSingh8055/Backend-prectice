@@ -1,7 +1,7 @@
 import express from 'express'
 import router from  './routes/router.js'
 import dotenv from  'dotenv'
-import { db_connect } from './config/db.js';
+import  db_connect  from './config/db.js';
 import bodyParser from 'body-parser';
 // import path from  'path'
 
